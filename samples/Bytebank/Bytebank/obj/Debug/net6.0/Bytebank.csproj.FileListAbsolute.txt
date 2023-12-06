@@ -1,0 +1,14 @@
+C:\classes\Alunos\Samantha Venchiarutti\samples\Bytebank\Bytebank\bin\Debug\net6.0\Bytebank.exe
+C:\classes\Alunos\Samantha Venchiarutti\samples\Bytebank\Bytebank\bin\Debug\net6.0\Bytebank.deps.json
+C:\classes\Alunos\Samantha Venchiarutti\samples\Bytebank\Bytebank\bin\Debug\net6.0\Bytebank.runtimeconfig.json
+C:\classes\Alunos\Samantha Venchiarutti\samples\Bytebank\Bytebank\bin\Debug\net6.0\Bytebank.dll
+C:\classes\Alunos\Samantha Venchiarutti\samples\Bytebank\Bytebank\bin\Debug\net6.0\Bytebank.pdb
+C:\classes\Alunos\Samantha Venchiarutti\samples\Bytebank\Bytebank\obj\Debug\net6.0\Bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\classes\Alunos\Samantha Venchiarutti\samples\Bytebank\Bytebank\obj\Debug\net6.0\Bytebank.AssemblyInfoInputs.cache
+C:\classes\Alunos\Samantha Venchiarutti\samples\Bytebank\Bytebank\obj\Debug\net6.0\Bytebank.AssemblyInfo.cs
+C:\classes\Alunos\Samantha Venchiarutti\samples\Bytebank\Bytebank\obj\Debug\net6.0\Bytebank.csproj.CoreCompileInputs.cache
+C:\classes\Alunos\Samantha Venchiarutti\samples\Bytebank\Bytebank\obj\Debug\net6.0\Bytebank.dll
+C:\classes\Alunos\Samantha Venchiarutti\samples\Bytebank\Bytebank\obj\Debug\net6.0\refint\Bytebank.dll
+C:\classes\Alunos\Samantha Venchiarutti\samples\Bytebank\Bytebank\obj\Debug\net6.0\Bytebank.pdb
+C:\classes\Alunos\Samantha Venchiarutti\samples\Bytebank\Bytebank\obj\Debug\net6.0\Bytebank.genruntimeconfig.cache
+C:\classes\Alunos\Samantha Venchiarutti\samples\Bytebank\Bytebank\obj\Debug\net6.0\ref\Bytebank.dll
