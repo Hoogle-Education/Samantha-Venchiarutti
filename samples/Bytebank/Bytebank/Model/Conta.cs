@@ -22,6 +22,9 @@ public class Conta
         Saldo = saldo;
     }
     
+    public static Conta FromPessoa(int id, string nome, string cpf, int idade) {
+        return new Conta(id, new Pessoa(nome, cpf, idade));
+    }
 
     public void Depositar(double quantia) {
         if (!EstaAtiva)
