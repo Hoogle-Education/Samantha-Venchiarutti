@@ -3,47 +3,56 @@
 public class Conta
 {
 
-    // private, protected e public = modificadores de acesso
-    // get e set => ferramenta de encapsulamento
-
     public int Id { get; private set; }
     public double Saldo { get; private set; }
-    private string _nome;
+    public bool EstaAtiva { get; private set; }
 
-    // metodo construtor
-    //public Conta()
-    //{
-    //}
+    // tem um
+    public Pessoa Pessoa { get; set; }
 
-    public Conta(int id, string nome)
+    public Conta(int id, Pessoa pessoa)
     {
         Id = id;
-        _nome = nome;
+        Pessoa = pessoa;
+        EstaAtiva = true;
     }
 
-    public Conta(int id, string nome, double saldo) : this(id, nome)
+    public Conta(int id, Pessoa pessoa, double saldo) : this(id, pessoa)
     {
         Saldo = saldo;
     }
+    
 
+    public void Depositar(double quantia) {
+        if (!EstaAtiva)
+            return;
 
-    // Property / Properties
+        Saldo += quantia;
+    }
 
-    public string Name
-    {
-        get { return _nome; }
-        set { 
-            if (value != "") 
-                _nome = value; 
-        }
+    public bool Sacar(double quantia) {
+        if (quantia > Saldo)
+            return false;
+
+        if (!EstaAtiva)
+            return false;
+
+        Saldo -= quantia;
+        return true;
     }
     
+    public void Transferir(double quantia, Conta contaDestino) {
+        if (!Sacar(quantia))
+            return;
 
-    public void depositar() { }
+        contaDestino.Saldo += quantia;
+    }
 
-    public void sacar() { }
-    
-    public void transferir() { }
-
-   }
+    public override string ToString()
+    {
+        return $"Numero da Conta: {Id}" +
+            $"\nContratante{{ {Pessoa} }}" +
+            $"\nSaldo: {Saldo:F2}";
+    }
+}
 
