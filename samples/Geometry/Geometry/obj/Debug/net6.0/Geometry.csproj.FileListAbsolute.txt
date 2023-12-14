@@ -1,0 +1,14 @@
+C:\classes\Alunos\Samantha Venchiarutti\samples\Geometry\Geometry\bin\Debug\net6.0\Geometry.exe
+C:\classes\Alunos\Samantha Venchiarutti\samples\Geometry\Geometry\bin\Debug\net6.0\Geometry.deps.json
+C:\classes\Alunos\Samantha Venchiarutti\samples\Geometry\Geometry\bin\Debug\net6.0\Geometry.runtimeconfig.json
+C:\classes\Alunos\Samantha Venchiarutti\samples\Geometry\Geometry\bin\Debug\net6.0\Geometry.dll
+C:\classes\Alunos\Samantha Venchiarutti\samples\Geometry\Geometry\bin\Debug\net6.0\Geometry.pdb
+C:\classes\Alunos\Samantha Venchiarutti\samples\Geometry\Geometry\obj\Debug\net6.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\classes\Alunos\Samantha Venchiarutti\samples\Geometry\Geometry\obj\Debug\net6.0\Geometry.AssemblyInfoInputs.cache
+C:\classes\Alunos\Samantha Venchiarutti\samples\Geometry\Geometry\obj\Debug\net6.0\Geometry.AssemblyInfo.cs
+C:\classes\Alunos\Samantha Venchiarutti\samples\Geometry\Geometry\obj\Debug\net6.0\Geometry.csproj.CoreCompileInputs.cache
+C:\classes\Alunos\Samantha Venchiarutti\samples\Geometry\Geometry\obj\Debug\net6.0\Geometry.dll
+C:\classes\Alunos\Samantha Venchiarutti\samples\Geometry\Geometry\obj\Debug\net6.0\refint\Geometry.dll
+C:\classes\Alunos\Samantha Venchiarutti\samples\Geometry\Geometry\obj\Debug\net6.0\Geometry.pdb
+C:\classes\Alunos\Samantha Venchiarutti\samples\Geometry\Geometry\obj\Debug\net6.0\Geometry.genruntimeconfig.cache
+C:\classes\Alunos\Samantha Venchiarutti\samples\Geometry\Geometry\obj\Debug\net6.0\ref\Geometry.dll
