@@ -49,3 +49,7 @@ public class Funcionario : Pessoa {
   public double Salario {get; set;}
 }
 ```
+
+## Problema do diamante
+
+No C# nao podemos fazer heranca multipla para evitar conflitos na soma de metodos e atributos das classes maes.
