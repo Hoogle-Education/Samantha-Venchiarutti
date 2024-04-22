@@ -1,21 +1,22 @@
 # Improving POO
 
-## keyword `readonly`
+## keyword `readonly` - *somente leitura*
 
 a variavel nao pode ser alterada apos sua declaracao.
 
-## keyword `static`
+## keyword `static` - *estático/compartilhado*
 
 indica que o propriedade, metodo ou variavel associado nao depende de um objeto para a chamar.
 
 ```cs
 public class Contraints {
-  public readonly static double Constraint1 = 2.131682;
+  public readonly static double NUMBER_OF_EULLER = 2.131682;
+  public readonly static int DAYS_IN_HOURS = 24;
 }
 ```
 
 ```cs
-int result = Contraints.Constraint1 * factor;
+int result = Contraints.NUMBER_OF_EULLER * factor;
 ```
 
 ```cs
